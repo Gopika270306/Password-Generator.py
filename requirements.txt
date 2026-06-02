@@ -1,0 +1,3 @@
+Since tkinter is included with most Python installations, you can leave requirements.txt empty or add:
+
+tkinter
